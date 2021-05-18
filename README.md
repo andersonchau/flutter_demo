@@ -1,7 +1,7 @@
 beauty_shop : 
 
-![alt text](https://github.com/andersonchau/flutter_demo/blob/main/beauty_shop.jpg?raw=true)
+![alt text](./beauty_shop.jpg =250x)
 
-beauty_shop : 
+login : 
 
-![alt text](https://github.com/andersonchau/flutter_demo/blob/main/login.jpg?raw=true
+![alt text](./login.jpg =250x)
